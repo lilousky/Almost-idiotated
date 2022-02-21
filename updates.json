@@ -9,6 +9,10 @@
           {
               "version": "1.2",
               "update_link": "https://github.com/Lami-Lemmy/Almost-retardated/releases/download/1.2/error_fixer-1.2-an+fx.xpi"
+          },
+          {
+              "version": "1.3",
+              "update_link": "https://github.com/Lami-Lemmy/Almost-retardated/releases/download/1.3/error_fixer-1.3-an+fx.xpi"
           }
         ]
       }
