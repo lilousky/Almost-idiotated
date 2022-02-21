@@ -2,7 +2,7 @@
     "description": "Fixes Errors on the wiiki",
     "manifest_version": 2,
     "name": "Error Fixer",
-    "version": "1.0",
+    "version": "1.1",
     "homepage_url": "http://wiki.tockdom.com/wiki/Special:Contributions/AlmostTWD98",
     "icons": {
         "48": "icons/ATWD98_48.png"
@@ -13,9 +13,12 @@
                     "*://*.tockdom.com/*"
                 ],
                 "js": [
-                    "fix_error.js"
+                    "fix_error.js",
+                    "fix_error2.js",
+                    "fix_error3.js"
                 ],
                 "run_at": "document_idle"
+                
             }
         ]
     }

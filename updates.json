@@ -1,0 +1,12 @@
+{
+    "addons": {
+      "{6d5e41c6-8436-4520-8906-7a029a9fa38d}": {
+        "updates": [
+          {
+            "version": "1.0",
+            "update_link": "https://github.com/Lami-Lemmy/Almost-retardated/releases/download/Release/error_fixer-1.0-anfx.xpi"
+          }
+        ]
+      }
+    }
+  }
