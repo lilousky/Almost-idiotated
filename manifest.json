@@ -2,7 +2,7 @@
     "description": "Fixes Errors on the wiiki",
     "manifest_version": 2,
     "name": "Error Fixer",
-    "version": "1.1",
+    "version": "1.2",
     "homepage_url": "http://wiki.tockdom.com/wiki/Special:Contributions/AlmostTWD98",
     "icons": {
         "48": "icons/ATWD98_48.png"
@@ -20,5 +20,11 @@
                 "run_at": "document_idle"
                 
             }
-        ]
+        ],
+       
+    "browser_specific_settings": {
+        "gecko": {
+            "update_url": "https://raw.githubusercontent.com/Lami-Lemmy/Almost-retardated/main/updates.json"
+         }
+        }
     }
